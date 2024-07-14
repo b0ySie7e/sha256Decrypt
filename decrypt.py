@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 #Formatfile : abc:sha256$BMLBVx5WUeKc1nHB$7aa12b7946468d198b5bf273b7ff924a2381707a5f7373af73efd68878cd91f7
 
 import argparse
