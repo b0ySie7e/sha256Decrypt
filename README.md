@@ -1,4 +1,4 @@
-# sha256Decrytp
+# sha256Decrypt
 
 ## USO:
 
